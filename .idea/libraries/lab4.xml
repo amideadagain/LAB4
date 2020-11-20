@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lab4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab4/jackson-jaxrs-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab4/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab4/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab4/jackson-core-asl-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab4/jackson-mapper-asl-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab4/org.apache.commons.io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
